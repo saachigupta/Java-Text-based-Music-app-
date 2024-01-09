@@ -30,3 +30,7 @@ Displays message if download is requested on already downloaded content and down
 
 <img width="693" alt="Screenshot 2024-01-08 at 11 48 52 PM" src="https://github.com/saachigupta/Java-Text-based-Music-app-/assets/124381205/8b8824e9-4984-4846-abf0-a1eb4fa332f8">
 
+6. playpod
+
+<img width="146" alt="Screenshot 2024-01-08 at 11 51 27 PM" src="https://github.com/saachigupta/Java-Text-based-Music-app-/assets/124381205/8ac6f481-25fd-4046-9bcf-af44c3e81f3d">
+
