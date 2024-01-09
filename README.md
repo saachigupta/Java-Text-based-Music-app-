@@ -25,6 +25,7 @@ Displays message if download is requested on already downloaded content and down
 5. playbook
 
 <img width="174" alt="Screenshot 2024-01-08 at 11 48 08 PM" src="https://github.com/saachigupta/Java-Text-based-Music-app-/assets/124381205/827fb835-da89-42b2-b701-ec0a97d7bc46">
+<br>
 
 <img width="190" alt="Screenshot 2024-01-08 at 11 48 32 PM" src="https://github.com/saachigupta/Java-Text-based-Music-app-/assets/124381205/04acaa08-7bfd-4060-8215-c878f22a5ff5">
 
