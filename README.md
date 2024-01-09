@@ -18,7 +18,7 @@ Displays message if download is requested on already downloaded content and down
 4. playsong (playing a song -> printing lyrics)
 <img width="133" alt="Screenshot 2024-01-08 at 11 44 10 PM" src="https://github.com/saachigupta/Java-Text-based-Music-app-/assets/124381205/35454d98-382d-4a80-adfc-c27ee8113173">
 
-\n
+<br>
 
 <img width="471" alt="Screenshot 2024-01-08 at 11 44 54 PM" src="https://github.com/saachigupta/Java-Text-based-Music-app-/assets/124381205/fae86700-e72b-440a-9a3b-3ff43cdbf263">
 
@@ -28,7 +28,7 @@ Displays message if download is requested on already downloaded content and down
 <br>
 
 <img width="190" alt="Screenshot 2024-01-08 at 11 48 32 PM" src="https://github.com/saachigupta/Java-Text-based-Music-app-/assets/124381205/04acaa08-7bfd-4060-8215-c878f22a5ff5">
-
+<br>
 <img width="693" alt="Screenshot 2024-01-08 at 11 48 52 PM" src="https://github.com/saachigupta/Java-Text-based-Music-app-/assets/124381205/8b8824e9-4984-4846-abf0-a1eb4fa332f8">
 
 6. playpod
